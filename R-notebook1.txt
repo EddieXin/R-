@@ -33,7 +33,6 @@ Take a sequence of vector, matrix or data-frame arguments and combine by columns
 merge
 
 
-
 ============================================================================================  
 7. rm
 在R软件的使用过程中，工作空间容易很快变得杂乱。rm函数能永久地从工作空间中删除一个或多个对象：
